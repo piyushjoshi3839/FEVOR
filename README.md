@@ -1,3 +1,7 @@
+We provide code of our proposed technique FEVOR for 3D object recognition.
+If you have any query please contact me. Email: piyushjoshi3839@gmail.com
+
+
 Run FEVOR
 .\FEVOR .\scene_brush2.pcd .\brush.pcd .\1feature.txt .\2feature.txt 0 3 0.0001 0.0001 0.25 0.0005 0.05 
 

@@ -13,3 +13,4 @@ argv[9] = grouping threshold
 argv[10] = False rejection threshold 
 argv[11] = Similarity constraint
 
+For running, you need to install latest PCL library and Microsoft Visual Studio 2019.
